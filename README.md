@@ -5,19 +5,19 @@ We would like to expand its business to include a merchandise store for our prof
 
 
 ## Endpoints
-CREATE A PRODUCT
+#### CREATE A PRODUCT
 [POST] localhost/api/v1/products
 
-SHOW ALL PRODUCTS
+#### SHOW ALL PRODUCTS
 [GET] localhost/api/v1/products
 
-SHOW ONE PRODUCT
+#### SHOW ONE PRODUCT
 [GET] localhost/api/v1/products/:id
 
-UPDATE PRODUCT PRICE
+#### UPDATE PRODUCT PRICE
 [PATCH] localhost/api/v1/products/:id
 
-CREATE AN ORDER
+#### CREATE AN ORDER
 [POST] localhost/api/v1/product_shopping_carts
 
 
